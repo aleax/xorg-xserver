@@ -1,3 +1,12 @@
+xorg-server (2:1.14.1-0ubuntu0.1~bpo70+1) wheezy-backports; urgency=low
+
+  * Rebuild for wheezy-backports.
+  * Change dependencies:
+    -  x11proto-fixes-dev from (>= 1:5.0-2ubuntu1) to (>= 1:5.0-2)
+  * Upload to wheezy-graphics-next
+
+ -- Alexey Bondarchuk <alexey.bondarchuk@aleax.me>  Sun, 28 Apr 2013 13:47:09 +0300
+
 xorg-server (2:1.14.1-0ubuntu0.1) raring; urgency=low
 
   [ Timo Aaltonen ]
